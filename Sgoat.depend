@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1502786265 source:f:\study\sani cse 225\c++ projects\scapegoat\sgoat\main.cpp
+	<iostream>
+	"Scapegoat.h"
+
+1502748176 source:f:\study\sani cse 225\c++ projects\scapegoat\sgoat\node.cpp
+
+1502786219 source:f:\study\sani cse 225\c++ projects\scapegoat\sgoat\scapegoat.cpp
+	"Scapegoat.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1502786224 f:\study\sani cse 225\c++ projects\scapegoat\sgoat\scapegoat.h
+	<iostream>
+	"Node.h"
+	<iostream>
+	"Node.h"
+
+1502786235 f:\study\sani cse 225\c++ projects\scapegoat\sgoat\node.h
+
+1502810915 source:c:\users\yoits\desktop\scapegoat\scapegoat\sgoat\main.cpp
+	<iostream>
+	"Scapegoat.h"
+
+1502811351 c:\users\yoits\desktop\scapegoat\scapegoat\sgoat\scapegoat.h
+	<iostream>
+	"Node.h"
+
+1502735836 c:\users\yoits\desktop\scapegoat\scapegoat\sgoat\node.h
+
+1502697778 source:c:\users\yoits\desktop\scapegoat\scapegoat\sgoat\node.cpp
+
+1502811546 source:c:\users\yoits\desktop\scapegoat\scapegoat\sgoat\scapegoat.cpp
+	"Scapegoat.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1502885970 source:f:\study\sani cse 225\c++ projects\scapegoat final\scapegoat\sgoat\main.cpp
+	<iostream>
+	"Scapegoat.h"
+
+1502861752 f:\study\sani cse 225\c++ projects\scapegoat final\scapegoat\sgoat\scapegoat.h
+	<iostream>
+	"Node.h"
+
+1502876982 f:\study\sani cse 225\c++ projects\scapegoat final\scapegoat\sgoat\node.h
+
+1502748178 source:f:\study\sani cse 225\c++ projects\scapegoat final\scapegoat\sgoat\node.cpp
+
+1502885942 source:f:\study\sani cse 225\c++ projects\scapegoat final\scapegoat\sgoat\scapegoat.cpp
+	"Scapegoat.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1502885972 source:j:\scapegoat final\scapegoat\sgoat\main.cpp
+	<iostream>
+	"Scapegoat.h"
+
+1502861752 j:\scapegoat final\scapegoat\sgoat\scapegoat.h
+	<iostream>
+	"Node.h"
+
+1502876984 j:\scapegoat final\scapegoat\sgoat\node.h
+
+1502748178 source:j:\scapegoat final\scapegoat\sgoat\node.cpp
+
+1502886086 source:j:\scapegoat final\scapegoat\sgoat\scapegoat.cpp
+	"Scapegoat.h"
+	<iostream>
+	<bits/stdc++.h>
+
+1503373787 source:f:\scapegoat final\scapegoat\sgoat\main.cpp
+	<iostream>
+	"Scapegoat.h"
+
+1503373255 f:\scapegoat final\scapegoat\sgoat\scapegoat.h
+	<iostream>
+	"Node.h"
+
+1502876984 f:\scapegoat final\scapegoat\sgoat\node.h
+
+1502748178 source:f:\scapegoat final\scapegoat\sgoat\node.cpp
+
+1503373735 source:f:\scapegoat final\scapegoat\sgoat\scapegoat.cpp
+	"Scapegoat.h"
+	<iostream>
+	<bits/stdc++.h>
+
